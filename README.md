@@ -1,2 +1,2 @@
 # html-portfolio
-a birthday invitation and movie-ranking
+Birthday invitation and movie-ranking
